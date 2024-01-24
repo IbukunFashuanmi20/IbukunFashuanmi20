@@ -4,7 +4,7 @@
 - 👀 I’m interested in data with strong background in marketing and product management
 - 🌱 I’m currently working as a data analyst 
 - 💞️ I’m looking to collaborate on any data project 
-- 📫 How to reach me ...
+- 📚  Masters of Business Administration 
 - ⚡ Fun fact: ...
 
 
