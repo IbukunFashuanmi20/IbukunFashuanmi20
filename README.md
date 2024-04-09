@@ -5,7 +5,7 @@
 - 🌱 I’m currently working as a data analyst 
 - 💞️ I’m looking to collaborate on any data project 
 - 📚  Masters of Business Administration 
-- ⚡ Fun fact: ...
+
 
 
 ### Skills and Tools 
