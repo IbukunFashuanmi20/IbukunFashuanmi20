@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibukun Fashuanmi
 
 ### About Me
-- 👀 I’m interested in data with strong background in marketing and product management
+- 👀 I’m interested in data with a strong background in marketing and product management
 - 🌱 I’m currently working as a data analyst 
 - 💞️ I’m looking to collaborate on any data project 
 - 📚  Masters of Business Administration 
