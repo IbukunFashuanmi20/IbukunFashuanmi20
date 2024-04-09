@@ -12,19 +12,8 @@
 
 - Tools: SQL (JOINS, CTEs, subqueries, UNIONs); Python (Pandas, NumPy); Nvivo, SPSS, Tableau,  Excel (Pivot tables, Vlookup, Charts), Google Data Studio
   
-- Skills: Critical Thinking, Problem Solving, Technical & Content Writing, Leadership, Communication.
+- Skills: Critical Thinking, Problem Solving, Leadership, Communication.
 
-
-### Projects
--  View my portfolio projects on my website.
--  View my coding projects on Github.
--  View my data visualizations on Tableau Public.
-
-
-### Favorite Projects
-*
-*
-*    
 
 ### Connect with Me
 * Website
