@@ -16,7 +16,6 @@
 
 
 ### Connect with Me
-* Website
 * Linkedin
 * Email 
 
